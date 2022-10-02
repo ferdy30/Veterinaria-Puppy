@@ -6,7 +6,7 @@
 ## Integrantes: :busts_in_silhouette:
 :black_medium_square: Luis Fernando Lovo Juarez <br>
 :black_medium_square: Rony Stanley marroquín Erroa <br>
-:black_medium_square: Edwin Roque <br>
+:black_medium_square: Edwin René Roque Bonilla <br>
 
 ## Licencia implementada:
 
