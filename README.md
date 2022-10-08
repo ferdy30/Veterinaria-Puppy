@@ -15,6 +15,10 @@
 :black_medium_square: [Kotlin](https://kotlinlang.org/s)-lenguaje de programación <br>
 :black_medium_square: [Trello](https://trello.com/b/53TFhoLV/veterinaria)-Plataforma usada para la planificación del proyecto
 
+
+## Licencia implementada:
+
+
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>
 
