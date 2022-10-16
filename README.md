@@ -19,7 +19,7 @@
 
 ### Google drive :https://drive.google.com/file/d/1uRfdUb7ZmoI13aaSjCimld-0rZUO2m1z/view?usp=sharing
 
-## Mock ups: :mobile phone:
+## Mock ups: :mobilephone:
 
 https://www.figma.com/file/Ceo7SySmbrjO2xmIVwV4lY/puppy?node-id=0%3A1
 
