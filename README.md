@@ -15,10 +15,13 @@
 :black_medium_square: [Kotlin](https://kotlinlang.org/s)-lenguaje de programación <br>
 :black_medium_square: [Trello](https://trello.com/b/53TFhoLV/veterinaria)-Plataforma usada para la planificación del proyecto
 
-## Diagrama UML
+## Diagrama UML:
 
 ### Google drive :https://drive.google.com/file/d/1uRfdUb7ZmoI13aaSjCimld-0rZUO2m1z/view?usp=sharing
 
+## Mock ups: :mobile phone:
+
+https://www.figma.com/file/Ceo7SySmbrjO2xmIVwV4lY/puppy?node-id=0%3A1
 
 ## Licencia implementada:
 
