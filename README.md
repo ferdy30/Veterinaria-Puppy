@@ -24,7 +24,7 @@
 https://www.figma.com/file/Ceo7SySmbrjO2xmIVwV4lY/puppy?node-id=0%3A1
 
 ## Presupuesto:
-https://drive.google.com/file/d/1EK3RrW8OvVsXootXu7MVGtAND-5wXR-h/view?usp=sharing
+https://drive.google.com/file/d/1I8iWNQGZc-1pd7jVtx4VSQV780xQYpFl/view?usp=sharing
 
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>
