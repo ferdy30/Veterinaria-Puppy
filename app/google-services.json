@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18895652568",
+    "project_id": "puppy-ea027",
+    "storage_bucket": "puppy-ea027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18895652568:android:17b32f44fb62128a3b39ad",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.puppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18895652568-13c6liluqn7egjqvl5jf2lgf2ai0d79j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKdGDEXLdGfbshH72TpAg3TNM3bQaaXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18895652568-13c6liluqn7egjqvl5jf2lgf2ai0d79j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
